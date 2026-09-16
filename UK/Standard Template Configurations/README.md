@@ -2,6 +2,6 @@ A list of generic 'initial config' settings for various things that might be the
 
 If we take these things as given for standard configs 
 
-the 'domain' when talking about a windows domain will be trust.internal
+the 'domain' when talking about a windows domain will be trust.internal  
 the gateway will be 10.10.10.1
 
