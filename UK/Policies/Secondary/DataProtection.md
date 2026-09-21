@@ -1,13 +1,12 @@
-BYOD Policy
+GDPR-focused.
 
-Even if BYOD isn't allowed.
+Includes:
 
-Specifically state:
+Lawful basis
+Retention
+Sharing
+Breach handling
+Subject Access Requests
+Staff responsibilities
 
-What is permitted
-What is prohibited
-MDM requirements
-Access controls
-Support boundaries
-Data ownership
-Wipe permissions
+Should align with the Trust's DPO arrangements.
