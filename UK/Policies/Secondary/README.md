@@ -8,4 +8,4 @@ Tier 3 = Safeguarding & Student Protection\
 Tier 4 = Operational Excellence\
 Tier 5 = Emerging Technology & Innovation\
 Tier 6 = Resilience & Recovery\
-Tier 7 = Sustainability\
+Tier 7 = Sustainability
