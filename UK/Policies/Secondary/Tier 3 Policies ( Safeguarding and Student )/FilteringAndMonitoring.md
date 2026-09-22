@@ -1,9 +1,31 @@
-The DfE increasingly expects specific governance around this.
+# Filtering and Monitoring Policy
 
-Should define:
+## Purpose
 
-Approved filtering solution
-Monitoring process
-Alert ownership
-Review schedule
-DSL involvement
+To ensure effective management of filtering and monitoring systems.
+
+## Objectives
+
+- Protect pupils and staff
+- Identify safeguarding concerns
+- Support compliance
+
+## Filtering
+
+The Trust shall:
+
+- Block harmful or inappropriate content
+- Review filtering effectiveness regularly
+- Maintain approved filtering standards
+
+## Monitoring
+
+Monitoring systems shall:
+
+- Detect safeguarding concerns
+- Alert authorised safeguarding staff
+- Support investigation processes
+
+## Governance
+
+The DSL and IT team shall review effectiveness regularly.
