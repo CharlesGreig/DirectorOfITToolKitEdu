@@ -1,13 +1,29 @@
-Usually owned jointly by:
+# Online Safety Policy
 
-DSL
-IT
-Senior Leadership
+## Purpose
 
-Should cover:
+To promote a safe online environment for all users.
 
-Filtering
-Monitoring
-Mobile devices
-Social media
-Online behaviour
+## Scope
+
+Applies to all digital platforms and devices used within the Trust.
+
+## Objectives
+
+- Protect children online
+- Support safe behaviour
+- Promote digital citizenship
+- Meet safeguarding obligations
+
+## Responsibilities
+
+The Trust shall:
+
+- Maintain filtering systems
+- Maintain monitoring systems
+- Provide online safety education
+- Review safeguarding incidents
+
+## Reporting
+
+Online safety concerns shall be reported through safeguarding procedures.
