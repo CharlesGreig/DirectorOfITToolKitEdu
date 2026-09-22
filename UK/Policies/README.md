@@ -1,4 +1,6 @@
-Policies
+## Policies
+
+I am currently working on the Secondary policies, these are likley going to be applicable to primary too so the Primary folder will be where I add any policies specific to primary schools that don't extend or add to those in the Secondary.
 
 I want to create a folder of standard policies that might be the purview of a Director of IT, ideally, if we all contribute to both the contents of the policies themselves and what policies should actually be here then we should be able to generate a really useful set of standard policies that we can all benefit from.
 
