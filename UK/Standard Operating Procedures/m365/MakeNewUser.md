@@ -1,6 +1,6 @@
 ## Make New User
 
-### Things to Consider first
+#### Things to Consider first
 
 Are users made in M365 or on Prem - Doing this incorrectly could damage automated process
 <br>
