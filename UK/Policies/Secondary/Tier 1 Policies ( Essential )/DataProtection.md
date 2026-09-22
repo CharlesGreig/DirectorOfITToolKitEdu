@@ -1,12 +1,30 @@
-GDPR-focused.
+# Data Protection Policy
 
-Includes:
+## Purpose
 
-Lawful basis
-Retention
-Sharing
-Breach handling
-Subject Access Requests
-Staff responsibilities
+To ensure compliance with UK GDPR and Data Protection legislation.
 
-Should align with the Trust's DPO arrangements.
+## Objectives
+
+- Protect personal information
+- Support lawful processing
+- Promote transparency
+- Reduce data protection risks
+
+## Principles
+
+Personal data shall be:
+
+- Processed lawfully
+- Accurate
+- Secure
+- Limited to legitimate purposes
+- Retained only as necessary
+
+## Data Breaches
+
+Suspected breaches must be reported immediately through established procedures.
+
+## Responsibilities
+
+All staff are responsible for protecting personal information.
