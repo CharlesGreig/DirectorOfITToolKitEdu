@@ -1,4 +1,4 @@
-##TIER'S and What the thinking was here.
+## TIER'S and What the thinking was here.
 
 These policies have been arranged, not necessarily into 'importance' tiers, but rather 'business importance and implementation priority' - this is obviously subjective so I am totally open to change here, but I had to start somewhere.
 
