@@ -1,8 +1,8 @@
-Tools that UK Directors of IT are using to achieve their goals ( ideally work out some staifaction matrix or something )
+Tools that UK Directors of IT are using to achieve their goals ( ideally work out some satisfaction matrix or something )
 
-A
-B
-C
+A/
+B/
+C/
 D
 E
 F
