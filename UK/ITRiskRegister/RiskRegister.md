@@ -2,7 +2,7 @@
 
 This is a list of Risks that you should consider and have a responsibility / mitigation plan for
 
-### Power Outage/
+### Power Outage
 
 What happens : Power Fails
 
@@ -12,11 +12,11 @@ Responsibility : Site Team / Facilities
 
 Impact : Systems down until power restored.
 
-### Server Hardware Failure/
+### Server Hardware Failure
 
-### Connectivity Failure/
+### Connectivity Failure
 
-### Compromise/
+### Compromise
 
-### Encryption/
+### Encryption
 
